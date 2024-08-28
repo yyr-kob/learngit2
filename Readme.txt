@@ -1,2 +1,5 @@
 I am a robot.
-I am human.
+<<<<<<< HEAD
+=======
+You are human.
+>>>>>>> dev1
